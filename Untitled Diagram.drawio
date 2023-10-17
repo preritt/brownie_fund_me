@@ -1,9 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T02:34:30.060Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/118.0" version="22.0.4" etag="2PmFPpsxvBcEV8_SjOPH" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T23:27:55.229Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/118.0" etag="zyFqSihYGivAVdwMeYG8" version="22.0.4" type="github">
   <diagram name="Page-1" id="yqzp4lKTh_vmPdK1OlxG">
-    <mxGraphModel>
+    <mxGraphModel dx="1194" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HHEj3naMouAJrIJH32SZ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HHEj3naMouAJrIJH32SZ-1" target="HHEj3naMouAJrIJH32SZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHEj3naMouAJrIJH32SZ-1" value="&lt;div&gt;User input:&lt;/div&gt;&lt;div&gt;&#39;I am looking for xx meal&#39;&lt;/div&gt;&lt;div&gt;My budget is $100&lt;/div&gt;&lt;div&gt;This is for a date night&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="305" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="HHEj3naMouAJrIJH32SZ-3" value="Personalization App" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HHEj3naMouAJrIJH32SZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HHEj3naMouAJrIJH32SZ-5" target="HHEj3naMouAJrIJH32SZ-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="260" />
+              <mxPoint x="220" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HHEj3naMouAJrIJH32SZ-5" value="&lt;div&gt;Location,&lt;/div&gt;&lt;div&gt;Reviews scraped&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="180" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HHEj3naMouAJrIJH32SZ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HHEj3naMouAJrIJH32SZ-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HHEj3naMouAJrIJH32SZ-10" value="&lt;div&gt;Craving for a meal&lt;/div&gt;&lt;div&gt;Upload photo&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="100" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
